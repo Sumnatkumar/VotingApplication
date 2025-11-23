@@ -19,7 +19,7 @@ Bootstrap is a CSS framework used to design responsive, mobile-friendly UI quick
 MySQL is a relational database used to store structured data like users, admin roles, polls, votes, and other application records. Spring Boot integrates with MySQL using JPA/Hibernate for ORM mapping.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## Working Details##
+## Working Details
 ![Architecture-UI](https://github.com/Sumnatkumar/VotingApplication/blob/main/voting-app.png).  
 
 
